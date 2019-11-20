@@ -1,0 +1,21 @@
+Galeria 8
+Tinder 54
+Uber 30
+WhatsApp 24
+Facebook 50
+Bradesco 60
+Spotify 42
+YouTube 35
+Telegram 37
+Vlc 11
+Gmail 18
+Twitter 23
+Instagram 21
+Agenda 15
+Chrome 65
+Drive 12
+Telegram 27
+Musicas 5
+Alarme 17
+Mapas 46
+ 
